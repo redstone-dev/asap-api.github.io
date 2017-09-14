@@ -17,7 +17,7 @@ main = {
     "js":false,
     "path":null,
 };
-properties = ["superslow",false:"fast",true:];
+properties = ["superslow":false,"fast":true];
 // (c) /*2017*/ asap. all rights reserved.
 /* Made on Tuesday, September 12 2017.
 Will continue on Thursday September 14 2017. */
