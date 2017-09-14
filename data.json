@@ -15,8 +15,9 @@ API = {
 main = {
     "java":true,
     "js":false,
-    "path":null
+    "path":null,
 };
-// (c) 2017 asap. all rights reserved.
+properties = ["superslow",false:"fast",true:];
+// (c) /*2017*/ asap. all rights reserved.
 /* Made on Tuesday, September 12 2017.
 Will continue on Thursday September 14 2017. */
