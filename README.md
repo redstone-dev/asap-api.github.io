@@ -8,5 +8,5 @@ This aQuery API Monster is an/a:
 # Install via npm
 use `npm install --asap.git` - it will do the job :)
 # Install via aQuery (aQJS)
-use `aQ.install(type["API:jq|py"]["asap"], txtType[text/git] src[]);` - it will also do the job :)
+use `aQ.install(type=["API:jq|py"], name=["asap"], txtType=[text/git] src=[https://github.com/redstone2010/asap-api.github.io.git]);` - it will also do the job :)
 > *NOTE:* Bower isn't supported - working on it though :)
