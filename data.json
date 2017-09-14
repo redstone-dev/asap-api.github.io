@@ -26,7 +26,6 @@ browsersupport = {
 	"Chrome-extension":true,
 	"firefox-addon":true
 };
-//properties //= //["superslow"//:false,"fast":true];
 // (c) /*2017*/ asap. all rights reserved.
 /* Made on Tuesday, September 12 2017.
 Will continue on Thursday September 14 2017. */
