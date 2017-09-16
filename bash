@@ -1,1 +1,1 @@
-curl https://sh.rustup.rs -sSf | sh
+npm install --node.js
