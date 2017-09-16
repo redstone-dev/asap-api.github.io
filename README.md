@@ -10,7 +10,7 @@ use `npm install --asap.git` - it will do the job :)
 # Install via aQuery (aQJS)
 use `grab(type=["API:jq|py"], name=["asap"], txtType=[text/git] src=[https://github.com/redstone2010/asap-api.github.io.git]);` - it will also do the job :)
 # Install via aQL (aQuery)
-use `INSTALL(asap){
+use ``INSTALL(asap){
   method : INSTALL,
   aQJS(aQ.enableJSON;),
   aQJS{
@@ -26,4 +26,4 @@ use `INSTALL(asap){
 		 
   },
 	
-}
+}``
