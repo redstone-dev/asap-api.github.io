@@ -1,7 +1,7 @@
 # Legend
 * PR ------ | Pull Request
 * $  ------ | invoke jQuery from asap
-* >  ------ | new line in list
+* >\  ------ | new line in list
 * ;  ------ | read next line in list
 # Contributing
 If you want to contribute, do the following in order:
